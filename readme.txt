@@ -13,6 +13,7 @@ Software Requirements:
             To install with conda run:
 *  $ conda install -c https://conda.anaconda.org/sloria textblob 
 *  $ python -m textblob.download_corpora 
+* Cpickle
  
     For more instructions visit  https://textblob.readthedocs.io/en/dev/install.html .
 
